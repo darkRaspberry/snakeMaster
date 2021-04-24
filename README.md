@@ -14,6 +14,10 @@ Enough?
 
 Drop a star if you love it.
 
+## How to play?
+
+As this game runs on Node.js it doesn't need a backend🎉.So, Just click this [**link**](https://darkraspberry.ga/snakeMaster/public/)
+
 ### Current status
 
 ```
@@ -21,3 +25,11 @@ snakemaster@0.0.1 /snakeMaster
 ├── express@4.17.1
 └── nodemon@2.0.7
 ```
+
+### What this game lacks?
+
+ - In a very rare condition, the apple will spawn on the snake body.
+ - There is no **game-over** screen.
+ - There is no hold screen thing when game start. so it stays until you press play.
+ - There is no anesthetic update.
+ - If any conditions meet and game restart. It just restart with any feedback.
